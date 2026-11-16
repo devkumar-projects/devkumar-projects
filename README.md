@@ -3,6 +3,8 @@
 <p align="center">
   <a href="https://dev-kumar.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/devkumar-robotics-ai-engineer">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/devkumarkaggle">Kaggle</a> ·
+  <a href="https://orcid.org/0009-0008-2279-9163">ORCID</a> ·
   <a href="https://github.com/devkumar-projects?tab=repositories">Projects</a>
 </p>
 
