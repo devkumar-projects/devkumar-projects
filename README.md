@@ -4,13 +4,26 @@
   <a href="https://dev-kumar.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/devkumar-robotics-ai-engineer">LinkedIn</a> ·
   <a href="https://www.kaggle.com/devkumarkaggle">Kaggle</a> ·
+  <a href="https://huggingface.co/devkumarhf">Hugging Face</a> ·
   <a href="https://orcid.org/0009-0008-2279-9163">ORCID</a> ·
   <a href="https://github.com/devkumar-projects?tab=repositories">Projects</a>
 </p>
 
 I am an Arts et Métiers engineering graduate specializing in mechatronics, robotics and AI. I explore how robots perceive their environment, estimate their state and make decisions — from control theory and computer vision to reinforcement learning.
 
-Incoming **Ontology Engineer – Data & AI at SLB** in January 2027, under a contract with Odyssey Sponsorship.
+**Available for engineering roles in Île-de-France and Switzerland.** I currently work as a freelance engineering consultant and welcome opportunities in robotics, autonomous systems, perception, control and multidisciplinary R&D.
+
+## Inspect the work interactively
+
+| Resource | What you can inspect | Validation scope |
+| --- | --- | --- |
+| [Engineering Workbench](https://huggingface.co/spaces/devkumarhf/Engineering-Workbench) | All 12 technical projects with pinned sources and attribution; live RST synthesis; original UR7e log explorer | Source-linked case studies, reduced linear-model calculations and descriptive simulation data |
+| [3D ICP Lab](https://huggingface.co/spaces/devkumarhf/ICP-Lab) | Rotate synthetic 3D clouds, step through Horn point-to-point ICP and vary noise/initialization | Independent educational browser adaptation; local convergence is not global alignment |
+| [UR7e dataset on Hugging Face](https://huggingface.co/datasets/devkumarhf/ur7e-line-following-training-log) | Original 520-episode Monitor log, schema, source commit and checksum | One sequential simulated training run; no held-out or hardware evaluation |
+| [Executed Kaggle notebooks](https://www.kaggle.com/devkumarkaggle/code) | Reproducible CPU analyses of perception, estimation, control, metrology and auditable ranking | Each notebook identifies its data, assumptions and source |
+| [GaN deck audit](https://www.kaggle.com/code/devkumarkaggle/auditing-gan-simulation-decks-with-python) | Parse the recovered lateral HEMT inputs and test contact consistency | Static artifact inspection; no proprietary solver or device-performance claim |
+
+The [Hugging Face collection](https://huggingface.co/collections/devkumarhf/robotics-perception-and-control-engineering-workbench-6afce1df9187d7a33c6da1ec) connects the demos and dataset. Source code, full project reports and upstream contribution records remain in the repositories below.
 
 ## Featured work
 
@@ -42,16 +55,16 @@ Three geometric vision projects covering optical-flow tracking and pose estimati
 
 **Robot learning and control**
 - [UR5e RL Pick-and-Place](https://github.com/devkumar-projects/ur5e-ReinforcementLearning-pick-and-place) — grasp-and-place training with SAC and HER in ROS 2 and Gazebo.
-- [Twin-Rotor Helicopter Control](https://github.com/devkumar-projects/Control-of-an-instable-system-using-digital-state-feedback) — experimental identification, integral state feedback and LQR.
+- [Twin-Rotor Helicopter Control](https://github.com/devkumar-projects/Control-of-an-instable-system-using-digital-state-feedback) — experimental identification, integral state feedback and LQR, with Steevy Doumbe Moundy and Léa Couësme.
 
 **Engineering research and design**
 - [VertiGaN Transistor Research](https://github.com/devkumar-projects/HeMT-GaN-Transistor) — exploratory GaN device modeling and analysis; results require further validation.
-- [Compact Axial Turbine Design](https://github.com/devkumar-projects/-Design-of-a-Turbomachine) — a team project spanning hydraulic design, CAD, CFD and prototyping.
-- [Spatial Verification of a CMM](https://github.com/devkumar-projects/-Spatial-Verification-of-a-Coordinate-Measuring-Machine) — trajectory design and metrology, with a MATLAB correction pipeline.
+- [Compact Axial Turbine Design](https://github.com/devkumar-projects/-Design-of-a-Turbomachine) — hydraulic design, CAD, CFD and prototyping, with Thien Ho, Seyf Daab and Wilhem Abboura.
+- [Spatial Verification of a CMM](https://github.com/devkumar-projects/-Spatial-Verification-of-a-Coordinate-Measuring-Machine) — trajectory design and metrology, with Thien Ho and a MATLAB correction pipeline.
 
 **Software applications**
 - [ProcureLens AI](https://github.com/devkumar-projects/ProcureLens-AI) — a desktop and command-line toolkit for auditable product-price extraction.
-- [The Game 2048](https://github.com/devkumar-projects/The-game-2048) — an educational Python, Tkinter and SQLite implementation.
+- [The Game 2048](https://github.com/devkumar-projects/The-game-2048) — an educational Python, Tkinter and SQLite implementation, with Michel Attoum and Celine Fernandes.
 
 ## Areas of interest
 
