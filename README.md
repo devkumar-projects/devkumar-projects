@@ -6,6 +6,7 @@
   <a href="https://www.kaggle.com/devkumarkaggle">Kaggle</a> ·
   <a href="https://huggingface.co/devkumarhf">Hugging Face</a> ·
   <a href="https://orcid.org/0009-0008-2279-9163">ORCID</a> ·
+  <a href="https://cv.hal.science/dev-kumar">HAL CV</a> ·
   <a href="https://github.com/devkumar-projects?tab=repositories">Projects</a>
 </p>
 
