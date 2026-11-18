@@ -20,10 +20,16 @@ I investigate how learning-based robot behaviour, geometric perception and model
 
 Current study directions include reward design and failure analysis for robot learning; sensitivity to noise and initialization in perception; and tracking, stability and disturbance rejection in control. These are engineering investigations supported by source code and documented experiments. Each project states its assumptions, contributors and validation limits; simulation results are kept distinct from hardware evidence.
 
+## Find the right evidence
+
+**GitHub:** engineering source, architecture and reproduction. **Hugging Face:** reusable trained models and live inference. **Kaggle:** measured datasets and executable experiments. **HAL:** scientific archival records. **ORCID:** research identity and linked contributions.
+
 ## Inspect the work interactively
 
 | Resource | What you can inspect | Validation scope |
 | --- | --- | --- |
+| [UR7e frozen SAC model](https://huggingface.co/devkumarhf/ur7e-sac-line-following) | Original checkpoint, portable NumPy actor and live [Policy Lab](https://huggingface.co/spaces/devkumarhf/UR7e-Policy-Lab) | Existing trained policy; CPU inference; default position-only kinematics |
+| [UR7e SAC vs DLS benchmark](https://www.kaggle.com/code/devkumarkaggle/ur7e-sac-vs-dls-reproducible-policy-benchmark) | 600 measured CPU episodes, strict completion audit, baseline and sensor perturbations | 100 prespecified trajectories reused across paired conditions; SAC completion and DLS accuracy trade-off |
 | [Engineering Workbench](https://huggingface.co/spaces/devkumarhf/Engineering-Workbench) | All 12 technical projects with pinned sources and attribution; live RST synthesis; original UR7e log explorer | Source-linked case studies, reduced linear-model calculations and descriptive simulation data |
 | [3D ICP Lab](https://huggingface.co/spaces/devkumarhf/ICP-Lab) | Rotate synthetic 3D clouds, step through Horn point-to-point ICP and vary noise/initialization | Independent educational browser adaptation; local convergence is not global alignment |
 | [UR7e dataset on Hugging Face](https://huggingface.co/datasets/devkumarhf/ur7e-line-following-training-log) | Original 520-episode Monitor log, schema, source commit and checksum | One sequential simulated training run; no held-out or hardware evaluation |
