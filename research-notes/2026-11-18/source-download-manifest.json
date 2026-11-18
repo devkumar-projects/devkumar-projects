@@ -1,0 +1,57 @@
+[
+  {
+    "path": "RST-controller-for-an-inverted-pendulum/docs/RST_Inverted_Pendulum_Report.pdf",
+    "sha256": "a40d3684e6b618ebd5b0b92683254f92d88efb7cc3b43c12d07e2fc3993f1b8f",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/RST-controller-for-an-inverted-pendulum/0a8a383810060c9c4d79e0ba39a400f11a3acb09/docs/RST_Inverted_Pendulum_Report.pdf"
+  },
+  {
+    "path": "RST-controller-for-an-inverted-pendulum/matlab/rst_pendulum_synthesis.m",
+    "sha256": "5e2aafb1588635b9e3affb13a47a1408da1f000f582f9eb96189f04d45bcc6c5",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/RST-controller-for-an-inverted-pendulum/0a8a383810060c9c4d79e0ba39a400f11a3acb09/matlab/rst_pendulum_synthesis.m"
+  },
+  {
+    "path": "Control-of-an-instable-system-using-digital-state-feedback/docs/Helicopter_Control_Report.pdf",
+    "sha256": "70abd00440b83c0cd06f9a911b775580c75c23120ee3482fc9a2c43c1b18e925",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/Control-of-an-instable-system-using-digital-state-feedback/7b2a966ac26a43f959ede9ce81aca5e787416679/docs/Helicopter_Control_Report.pdf"
+  },
+  {
+    "path": "Control-of-an-instable-system-using-digital-state-feedback/matlab/lqr_integral_control.m",
+    "sha256": "c19526101d7062a4f694546a5b6a2b1fa57e7740ebcd4e56bb9c797421cfd36c",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/Control-of-an-instable-system-using-digital-state-feedback/7b2a966ac26a43f959ede9ce81aca5e787416679/matlab/lqr_integral_control.m"
+  },
+  {
+    "path": "Control-of-an-instable-system-using-digital-state-feedback/matlab/integral_state_feedback_pole_placement.m",
+    "sha256": "0d26fbe8100e075867340c0b74609a6e80436631f6307cc819d6747ea1647db5",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/Control-of-an-instable-system-using-digital-state-feedback/7b2a966ac26a43f959ede9ce81aca5e787416679/matlab/integral_state_feedback_pole_placement.m"
+  },
+  {
+    "path": "-Spatial-Verification-of-a-Coordinate-Measuring-Machine/docs/Spatial_Verification_of_a_CMM_Report.pdf",
+    "sha256": "592110909a82480c8dfebc91f60f86ee110410d24d37aa04654e8c0d2728cd6e",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/-Spatial-Verification-of-a-Coordinate-Measuring-Machine/bdb9692afdea0972d806bed8ac1e07253b8c004a/docs/Spatial_Verification_of_a_CMM_Report.pdf"
+  },
+  {
+    "path": "-Spatial-Verification-of-a-Coordinate-Measuring-Machine/matlab/Metrology_Correction.m",
+    "sha256": "79e0e107d3ac05e49616667a72ac9d187dac2bec9c9eb6fbc9be7ecb7bfb320b",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/-Spatial-Verification-of-a-Coordinate-Measuring-Machine/bdb9692afdea0972d806bed8ac1e07253b8c004a/matlab/Metrology_Correction.m"
+  },
+  {
+    "path": "-Design-of-a-Turbomachine/docs/Compact_Axial_Hydraulic_Turbine_Report.pdf",
+    "sha256": "5650f4eb664ba3e058ad2bc7923571a77dbe243020c12185a63fd4300b2c44c3",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/-Design-of-a-Turbomachine/6ea7c35a20d026a5e62b155061d2ab4f1e835496/docs/Compact_Axial_Hydraulic_Turbine_Report.pdf"
+  },
+  {
+    "path": "-Design-of-a-Turbomachine/matlab/data_reduction/affinity_law_scaling.m",
+    "sha256": "defc52cdb3c8c32fb4115268c426561923646970eeeacecd2c21bc148bcd1fde",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/-Design-of-a-Turbomachine/6ea7c35a20d026a5e62b155061d2ab4f1e835496/matlab/data_reduction/affinity_law_scaling.m"
+  },
+  {
+    "path": "HeMT-GaN-Transistor/report/VertiGaN_CNRS_Research_Internship_Report.pdf",
+    "sha256": "1f8ca4377f42f1b1ee80dd94b4ae8b7fe7df226c1daa39ef5a326f6baf8ac813",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/HeMT-GaN-Transistor/fefb15a0696f7f4c0545ac638b33a2c4449e3b4c/report/VertiGaN_CNRS_Research_Internship_Report.pdf"
+  },
+  {
+    "path": "HeMT-GaN-Transistor/tools/ecorce_deck.py",
+    "sha256": "be7d92ddc1f6a3b6eda28d9d6783cf6da147e9704ae8c18279dd4021be5324d5",
+    "url": "https://raw.githubusercontent.com/devkumar-projects/HeMT-GaN-Transistor/fefb15a0696f7f4c0545ac638b33a2c4449e3b4c/tools/ecorce_deck.py"
+  }
+]
