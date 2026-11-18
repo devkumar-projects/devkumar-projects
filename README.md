@@ -1,5 +1,5 @@
 <h1 align="center">Dev Kumar</h1>
-<p align="center"><strong>Robotics & AI · Perception · Control · State Estimation</strong></p>
+<p align="center"><strong>R&D Engineering Consultant · Robotics · Control · Machine Learning · AI</strong></p>
 <p align="center">
   <a href="https://dev-kumar.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/devkumar-robotics-ai-engineer">LinkedIn</a> ·
@@ -12,7 +12,13 @@
 
 I am an Arts et Métiers engineering graduate specializing in mechatronics, robotics and AI. I explore how robots perceive their environment, estimate their state and make decisions — from control theory and computer vision to reinforcement learning.
 
-**Available for engineering roles in Île-de-France and Switzerland.** I currently work as a freelance engineering consultant and welcome opportunities in robotics, autonomous systems, perception, control and multidisciplinary R&D.
+**R&D engineering consultant — robotics, control, machine learning and AI.** Open to engineering and applied research opportunities in **Paris, France; Geneva & Zurich, Switzerland; San Francisco & New York, United States**. **Open to worldwide freelance projects.**
+
+## Applied research focus
+
+I investigate how learning-based robot behaviour, geometric perception and model-based control can be combined and evaluated reproducibly. My public work includes UR7e/UR5e reinforcement-learning environments, ICP registration, Kalman filtering, RST and state-feedback control, plus collaborative studies in metrology, turbomachinery and semiconductor modelling.
+
+Current study directions include reward design and failure analysis for robot learning; sensitivity to noise and initialization in perception; and tracking, stability and disturbance rejection in control. These are engineering investigations supported by source code and documented experiments. Each project states its assumptions, contributors and validation limits; simulation results are kept distinct from hardware evidence.
 
 ## Inspect the work interactively
 
