@@ -30,7 +30,7 @@ Current study directions include reward design and failure analysis for robot le
 | --- | --- | --- |
 | [UR7e frozen SAC model](https://huggingface.co/devkumarhf/ur7e-sac-line-following) | Original checkpoint, portable NumPy actor and live [Policy Lab](https://huggingface.co/spaces/devkumarhf/UR7e-Policy-Lab) | Existing trained policy; CPU inference; default position-only kinematics |
 | [UR7e SAC vs DLS benchmark](https://www.kaggle.com/code/devkumarkaggle/ur7e-sac-vs-dls-reproducible-policy-benchmark) | 600 measured CPU episodes, strict completion audit, baseline and sensor perturbations | 100 prespecified trajectories reused across paired conditions; SAC completion and DLS accuracy trade-off |
-| [Engineering Workbench](https://huggingface.co/spaces/devkumarhf/Engineering-Workbench) | All 12 technical projects with pinned sources and attribution; live RST synthesis; original UR7e log explorer | Source-linked case studies, reduced linear-model calculations and descriptive simulation data |
+| [Engineering Workbench](https://huggingface.co/spaces/devkumarhf/Engineering-Workbench) | A selection of public technical projects with pinned sources and attribution; live RST synthesis; original UR7e log explorer | Source-linked case studies, reduced linear-model calculations and descriptive simulation data |
 | [3D ICP Lab](https://huggingface.co/spaces/devkumarhf/ICP-Lab) | Rotate synthetic 3D clouds, step through Horn point-to-point ICP and vary noise/initialization | Independent educational browser adaptation; local convergence is not global alignment |
 | [UR7e dataset on Hugging Face](https://huggingface.co/datasets/devkumarhf/ur7e-line-following-training-log) | Original 520-episode Monitor log, schema, source commit and checksum | One sequential simulated training run; no held-out or hardware evaluation |
 | [Executed Kaggle notebooks](https://www.kaggle.com/devkumarkaggle/code) | Reproducible CPU analyses of perception, estimation, control, metrology and auditable ranking | Each notebook identifies its data, assumptions and source |
@@ -51,10 +51,6 @@ Robot trajectory following, target reaching and obstacle avoidance, combining re
 A simulated robot navigates a corridor, follows a line and pushes a ball using LiDAR, camera and odometry within a unified ROS 2 state machine. Built with **David Tovmassian**. The repository documents an external course dependency needed to reproduce the Gazebo environment.
 
 [Watch the robot demonstration](https://youtube.com/shorts/X09uviqkwvI?feature=share)
-
-### [INTARSO Target Robot Controller](https://github.com/devkumar-projects/INTARSO-Shooting-Range-Target-Robot)
-
-Co-developed an embedded control system for a motorized target robot, integrating an ESP32, LiDAR feedback, motor control, a wireless interface and custom electronics. Delivered with **Tedjeddine Sebiane**, in collaboration with JEECE and AMJE Arts et Métiers Junior Études.
 
 ### [RST Control of an Inverted Pendulum](https://github.com/devkumar-projects/RST-controller-for-an-inverted-pendulum)
 
