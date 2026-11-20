@@ -2,6 +2,7 @@
 <p align="center"><strong>R&D Engineering Consultant · Robotics · Control · Machine Learning · AI</strong></p>
 <p align="center">
   <a href="https://dev-kumar.com/">Portfolio</a> ·
+  <a href="https://dev-kumar.com/reports/">Research reports</a> ·
   <a href="https://www.linkedin.com/in/devkumar-robotics-ai-engineer">LinkedIn</a> ·
   <a href="https://www.kaggle.com/devkumarkaggle">Kaggle</a> ·
   <a href="https://huggingface.co/devkumarhf">Hugging Face</a> ·
@@ -36,7 +37,7 @@ Current study directions include reward design and failure analysis for robot le
 | [Executed Kaggle notebooks](https://www.kaggle.com/devkumarkaggle/code) | Reproducible CPU analyses of perception, estimation, control, metrology and auditable ranking | Each notebook identifies its data, assumptions and source |
 | [GaN deck audit](https://www.kaggle.com/code/devkumarkaggle/auditing-gan-simulation-decks-with-python) | Parse the recovered lateral HEMT inputs and test contact consistency | Static artifact inspection; no proprietary solver or device-performance claim |
 
-The [Hugging Face collection](https://huggingface.co/collections/devkumarhf/robotics-perception-and-control-engineering-workbench-6afce1df9187d7a33c6da1ec) connects the demos and dataset. Source code, full project reports and upstream contribution records remain in the repositories below.
+The [Hugging Face collection](https://huggingface.co/collections/devkumarhf/robotics-perception-and-control-engineering-workbench-6afce1df9187d7a33c6da1ec) connects the demos and dataset. Source code and upstream contribution records remain in the repositories below. Full manuscripts are available from the [portfolio research-report library](https://dev-kumar.com/reports/).
 
 ## Featured work
 
